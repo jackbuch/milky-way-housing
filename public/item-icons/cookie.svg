@@ -1,0 +1,18 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M28.5 9C26.5 6.6 27 3.33333 27.5 2C21 2 17.5 2.5 12.5 6C7.5 9.5 2.5 17 2.5 24C2.5 31 3.5 39 14.5 45C25.5 51 33.5 47 39 43.5C44.5 40 47.5 33.5 48 29C48.4 25.4 47.8333 21.8333 47.5 20.5C46.1667 21.1667 42.8 22.1 40 20.5C37.2 18.9 35.8333 15.1667 35.5 13.5C34 13 30.5 11.4 28.5 9Z" fill="#FAA21E"/>
+<path d="M28.5 9C26.5 6.6 27 3.33333 27.5 2C21 2 17.5 2.5 12.5 6C7.5 9.5 2.5 17 2.5 24C2.5 31 3.5 39 14.5 45C25.5 51 33.5 47 39 43.5C44.5 40 47.5 33.5 48 29C48.4 25.4 47.8333 21.8333 47.5 20.5C46.1667 21.1667 42.8 22.1 40 20.5C37.2 18.9 35.8333 15.1667 35.5 13.5C34 13 30.5 11.4 28.5 9Z" fill="black" fill-opacity="0.1"/>
+<circle cx="11.5" cy="23.5" r="2.5" fill="#FAA21E"/>
+<circle cx="11.5" cy="23.5" r="2.5" fill="black" fill-opacity="0.6"/>
+<circle cx="26.5" cy="23.5" r="2.5" fill="#FAA21E"/>
+<circle cx="26.5" cy="23.5" r="2.5" fill="black" fill-opacity="0.6"/>
+<circle cx="33.5" cy="34.5" r="2.5" fill="#FAA21E"/>
+<circle cx="33.5" cy="34.5" r="2.5" fill="black" fill-opacity="0.6"/>
+<circle cx="21.5" cy="37.5" r="2.5" fill="#FAA21E"/>
+<circle cx="21.5" cy="37.5" r="2.5" fill="black" fill-opacity="0.6"/>
+<circle cx="18.5" cy="28.5" r="2.5" fill="#FAA21E"/>
+<circle cx="18.5" cy="28.5" r="2.5" fill="black" fill-opacity="0.6"/>
+<circle cx="38.5" cy="26.5" r="2.5" fill="#FAA21E"/>
+<circle cx="38.5" cy="26.5" r="2.5" fill="black" fill-opacity="0.6"/>
+<circle cx="20.5" cy="15.5" r="2.5" fill="#FAA21E"/>
+<circle cx="20.5" cy="15.5" r="2.5" fill="black" fill-opacity="0.6"/>
+</svg>
